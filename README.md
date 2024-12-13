@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello%20world👋&animation=fadeIn&fontColor=292929&fontSize=70" alt="Hello World Banner" />
+</div>
 
-<!--
-**devjaesung/devjaesung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Hello👋</h2>  
+  <div style="font-weight: 700;  text-align: center; color: #282d33;">
+ 
+  <p style="font-size: 12px;">
+  Hi, I'm <strong>Jaesung</strong>, a passionate <strong>Frontend Developer</strong> specializing in building dynamic and responsive web applications. With extensive experience in <strong>React</strong> and <strong>TypeScript</strong>, I create scalable and maintainable codebases that enhance user experiences.<br/> My keen interest in <strong>User Experience (UX)</strong> and <strong>Developer Experience (DX)</strong> drives me to design interfaces that are both intuitive for users and efficient for developers.
+</p>
+  
+  </div> 
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2> <br> 
+  <div style="margin: 0 auto; text-align: center;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">  
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React">
+    <br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=React%20Query&logoColor=white" alt="React Query">
+    <br/>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2> <br> 
+  <div align="center">
+    <a href="mailto:jaesungko.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </div>  <br> 
+  <div align="center">
+    <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevjaesung%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" alt="GitHub Hits"/>
+    </a>
+  </div> 
+</div>
+
+<div align="center"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=devjaesung&bg_color=180,00000000,00d652&title_color=000000&text_color=000000" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjaesung&layout=compact&bg_color=180,00000000,00d652&title_color=000000&text_color=000000" alt="Top Languages" />
+  </div> 
+</div>
