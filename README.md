@@ -7,7 +7,9 @@
   <div style="font-weight: 700;  text-align: center; color: #282d33;">
  
   <p style="font-size: 12px;">
-  Hi, I'm <strong>Jaesung</strong>, a passionate <strong>Frontend Developer</strong> specializing in building dynamic and responsive web applications. With extensive experience in <strong>React</strong> and <strong>TypeScript</strong>, I create scalable and maintainable codebases that enhance user experiences.<br/> My keen interest in <strong>User Experience (UX)</strong> and <strong>Developer Experience (DX)</strong> drives me to design interfaces that are both intuitive for users and efficient for developers.
+Hi, I’m Jaesung! I’m a frontend developer who’s really into building clean, responsive web apps that are a joy to use. I mainly work with React and TypeScript, and I enjoy writing code that’s tidy, scalable, and easy to work with.
+<br/>
+I’m quite keen on good UX and DX — I think great products should feel natural for users and make life easier for developers too. Always happy tinkering with ideas and figuring out how to make things work better.
 </p>
   
   </div> 
