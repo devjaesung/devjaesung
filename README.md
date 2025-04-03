@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello%20world👋&animation=fadeIn&fontColor=292929&fontSize=70" alt="Hello World Banner" />
 </div>
 
-<div align="center"> 
+<div align="left"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Hello👋</h2>  
-  <div style="font-weight: 700;  text-align: center; color: #282d33;">
+  <div style="font-weight: 700;  text-align: left; color: #282d33;">
  
   <p style="font-size: 12px;">
 Hi, I’m Jaesung! I’m a frontend developer who’s really into building clean, responsive web apps that are a joy to use. I mainly work with React and TypeScript, and I enjoy writing code that’s tidy, scalable, and easy to work with.
@@ -15,7 +15,7 @@ I’m quite keen on good UX and DX — I think great products should feel natura
   </div> 
 </div>
 
-<div align="center">
+<div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2> <br> 
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
@@ -30,9 +30,9 @@ I’m quite keen on good UX and DX — I think great products should feel natura
   </div>
 </div>
 
-<div align="center">
+<div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2> <br> 
-  <div align="center">
+  <div align="left">
     <a href="mailto:jaesungko.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
     </a>
